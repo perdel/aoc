@@ -1,2 +1,3 @@
 *.pyc
 day*.txt
+!day*-input*.txt
