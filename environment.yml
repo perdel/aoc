@@ -1,0 +1,16 @@
+name: python-aoc
+channels:
+  - default
+  - conda-forge
+dependencies:
+  - python=3
+  - pip
+  - pip:
+    - matplotlib
+    - pyqt5
+    - numpy
+    - jupyter
+    - jupyterlab
+    - black
+    - pytest
+    - ipykernel
